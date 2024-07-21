@@ -10,7 +10,7 @@ embarked,Porto em que o passageiro embarcou,qualitativa,nominal
 class,Classe do passageiro (em ordinal),qualitativa,ordinal
 who,Categoria do passageiro,qualitativa,nominal
 adult_male,Indica se o passageiro é um homem adulto,qualitativa,nominal
-deck,Convés do passageiro,qualitativa,nominal
+deck,Deck da cabine do passageiro,qualitativa,nominal
 embark_town,Cidade em que o passageiro embarcou,qualitativa,nominal
 alive,Indica se o passageiro sobreviveu,qualitativa,nominal
 alone,Indica se o passageiro estava sozinho,qualitativa,nominal
