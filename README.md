@@ -1,17 +1,11 @@
-# <Título do projeto>
+# <Atividades do Bootcamp da Avanti em Ciência  de Dados>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este repositório reúne todas as atividades e projetos realizados durante o Bootcamp em Ciência de Dados promovido pela [Atlântico Avanti] (https://www.atlanticoavanti.com.br/bootcamp).
 
-## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+## Conjunto de Dados
+O conjunto de dados utilizado para realizar as atividades é o [Titanic](https://www.kaggle.com/c/titanic/data). Este conjunto fornece informações detalhadas sobre os passageiros do naufrágio do RMS Titanic.
 
----
-
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
+<!--> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
 ## Funcionalidades
 
@@ -83,10 +77,9 @@ poetry shell
 Para mais informações sobre os comandos do Poetry, visite a [documentação oficial](https://python-poetry.org/docs/).
 
 Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
-
+-->
 
 ### Organização de diretórios
-
 
 ```
 .
