@@ -1,6 +1,6 @@
 # Atividades do Bootcamp em Ciência de Dados da Avanti
 
-Este repositório reúne todas as atividades e projetos realizados durante o Bootcamp em Ciência de Dados promovido pela [Atlântico Avanti] (https://www.atlanticoavanti.com.br/bootcamp).
+Este repositório reúne todas as atividades e projetos realizados durante o Bootcamp em Ciência de Dados promovido pela [Atlântico Avanti](https://www.atlanticoavanti.com.br/bootcamp).
 
 ## Conjunto de Dados
 O conjunto de dados utilizado para realizar as atividades é o [Titanic](https://www.kaggle.com/c/titanic/data). Este conjunto fornece informações detalhadas sobre os passageiros do naufrágio do RMS Titanic.
