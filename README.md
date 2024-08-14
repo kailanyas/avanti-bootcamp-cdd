@@ -1,4 +1,4 @@
-# <Atividades do Bootcamp da Avanti em Ciência  de Dados>
+# Atividades do Bootcamp da Avanti em Ciência  de Dados
 
 Este repositório reúne todas as atividades e projetos realizados durante o Bootcamp em Ciência de Dados promovido pela [Atlântico Avanti] (https://www.atlanticoavanti.com.br/bootcamp).
 
